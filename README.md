@@ -1,3 +1,4 @@
-okkkk 
+
 # tfirst
-thisismyfirst
+thisismyfirst repositry okk
+
